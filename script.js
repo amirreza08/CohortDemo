@@ -3,3 +3,5 @@ function Toffee(name){
 }
 Toffee.prototype.price=2;
 let t1 = new Toffee("KitKat")
+
+console.log(t1);
